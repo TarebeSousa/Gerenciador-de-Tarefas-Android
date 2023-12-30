@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544797840037",
+    "project_id": "gerenciador-de-tarefas-51483",
+    "storage_bucket": "gerenciador-de-tarefas-51483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544797840037:android:021a5b56ea2b2008dab34c",
+        "android_client_info": {
+          "package_name": "com.tarebesousa.gerenciadordetarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvs4edxYZCwHvOEaB9HF2osnnmvSrYl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

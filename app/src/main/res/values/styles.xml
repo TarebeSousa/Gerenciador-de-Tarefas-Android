@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ContainerComponents">
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">250dp</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:background">@drawable/edit_text</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:background">@drawable/button</item>
+    </style>
+
+    <style name="ContainerCadastro">
+        <item name="android:background">@drawable/container_cadastro</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">250dp</item>
+    </style>
+</resources>
